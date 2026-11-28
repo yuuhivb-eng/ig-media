@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+  <id>https://yuuhivb-eng.github.io/ig-media/</id>
+  <title>最新AIニュース（@ai_breakingnews_1）</title>
+  <subtitle>毎朝3分、最新AIを実務目線で</subtitle>
+  <link href="https://yuuhivb-eng.github.io/ig-media/"/>
+  <link rel="self" href="https://yuuhivb-eng.github.io/ig-media/feed.xml"/>
+  <updated>2026-11-28T11:42:29Z</updated>
+  <entry>
+    <id>tag:ai_breakingnews_1,2026-11-28:2026-11-28/02</id>
+    <title>ハルシネーション＝AIのもっともらしい間違い</title>
+    <link href="https://yuuhivb-eng.github.io/ig-media/posts/2026-11-28-02.html"/>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <summary>ハルシネーションは、AIがもっともらしい間違いを自信ありげに答えること</summary>
+    <content type="html">&lt;p&gt;結論：ハルシネーションは、AIがもっともらしい間違いを自信ありげに答えること&lt;/p&gt;&lt;ul&gt;&lt;li&gt;OpenAIヘルプセンター「ChatGPT は真実を伝えますか？」 &lt;a href="https://help.openai.com/ja-jp/articles/8313428-does-chatgpt-tell-the-truth"&gt;https://help.openai.com/ja-jp/articles/8313428-does-chatgpt-tell-the-truth&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Anthropicヘルプセンター「Claudeが不正確または誤解を招く回答を提供しています。どうなっているのでしょうか？」 &lt;a href="https://support.claude.com/ja/articles/8525154"&gt;https://support.claude.com/ja/articles/8525154&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Google Cloud「AI ハルシネーションとは」 &lt;a href="https://cloud.google.com/discover/what-are-ai-hallucinations?hl=ja"&gt;https://cloud.google.com/discover/what-are-ai-hallucinations?hl=ja&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※AIを活用して作成&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai_breakingnews_1,2026-11-28:2026-11-28/01</id>
+    <title>DeepLの音声翻訳AIがAure v2に</title>
+    <link href="https://yuuhivb-eng.github.io/ig-media/posts/2026-11-28-01.html"/>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <summary>DeepL Voiceの音声翻訳が、待ち時間の少ない自然な訳に</summary>
+    <content type="html">&lt;p&gt;結論：DeepL Voiceの音声翻訳が、待ち時間の少ない自然な訳に&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Impress Watch「DeepL、より自然なAI音声翻訳「Aure v2」　翻訳の遅延を50%削減」 &lt;a href="https://www.watch.impress.co.jp/docs/news/2159451.html"&gt;https://www.watch.impress.co.jp/docs/news/2159451.html&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Unite.ai「DeepL Launches Aure V2 with End-to-End Speech Translation」 &lt;a href="https://www.unite.ai/deepl-launches-aure-v2-with-end-to-end-speech-translation/"&gt;https://www.unite.ai/deepl-launches-aure-v2-with-end-to-end-speech-translation/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※AIを活用して作成&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai_breakingnews_1,2026-11-27:2026-11-27/02</id>
+    <title>ChatGPTの通常チャットがGPT-6.2に（有料）</title>
+    <link href="https://yuuhivb-eng.github.io/ig-media/posts/2026-11-27-02.html"/>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>有料プランのChatGPTが、比較や画像の質問により強くなった</summary>
+    <content type="html">&lt;p&gt;結論：有料プランのChatGPTが、比較や画像の質問により強くなった&lt;/p&gt;&lt;ul&gt;&lt;li&gt;OpenAI ヘルプセンター「ChatGPT release notes」 &lt;a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes"&gt;https://help.openai.com/en/articles/6825453-chatgpt-release-notes&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Digital Trends「ChatGPT is getting a chat-tuned GPT-6.2 Sol, and it can offer to watch for a price drop」 &lt;a href="https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/"&gt;https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Notebookcheck「GPT-6.2 comes to ChatGPT&amp;#x27;s Chat tab, but only for paid plans」 &lt;a href="https://www.notebookcheck.net/GPT-6-2-comes-to-ChatGPT-s-Chat-tab-but-only-for-paid-plans.1458765.0.html"&gt;https://www.notebookcheck.net/GPT-6-2-comes-to-ChatGPT-s-Chat-tab-but-only-for-paid-plans.1458765.0.html&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※AIを活用して作成&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai_breakingnews_1,2026-11-26:2026-11-26/02</id>
+    <title>Claudeで作ったツールがPCアプリに（ベータ）</title>
+    <link href="https://yuuhivb-eng.github.io/ig-media/posts/2026-11-26-02.html"/>
+    <updated>2026-11-26T00:00:00Z</updated>
+    <summary>Claudeで作った便利ツールを、MacやWindowsのアプリとして開ける</summary>
+    <content type="html">&lt;p&gt;結論：Claudeで作った便利ツールを、MacやWindowsのアプリとして開ける&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Claude公式「Turn artifacts into Mac and Windows apps」 &lt;a href="https://claude.com/resources/articles/install-as-app"&gt;https://claude.com/resources/articles/install-as-app&lt;/a&gt;&lt;/li&gt;&lt;li&gt;9to5Mac「Anthropic just gave Claude users a new way to make Mac apps」 &lt;a href="https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps"&gt;https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SiliconANGLE「Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps」 &lt;a href="https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/"&gt;https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※AIを活用して作成&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai_breakingnews_1,2026-11-25:2026-11-25/02</id>
+    <title>パナソニック、レッツノート向け議事録AIを無償提供</title>
+    <link href="https://yuuhivb-eng.github.io/ig-media/posts/2026-11-25-02.html"/>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>対象のレッツノートなら、会議の録音から要約までPCの中だけで無料でできる</summary>
+    <content type="html">&lt;p&gt;結論：対象のレッツノートなら、会議の録音から要約までPCの中だけで無料でできる&lt;/p&gt;&lt;ul&gt;&lt;li&gt;パナソニック コネクト公式X「対象レッツノートユーザーなら無償で使える純正AIアプリ「Panasonic PC Edge AI Note Taker」本日提供開始」 &lt;a href="https://x.com/Panasonic_CO_JP/status/2125076947013152926"&gt;https://x.com/Panasonic_CO_JP/status/2125076947013152926&lt;/a&gt;&lt;/li&gt;&lt;li&gt;ITmedia PC USER「パナソニック コネクト、ローカル環境で利用できるAI議事録作成アプリ「Panasonic PC Edge AI Note Taker」」 &lt;a href="https://www.itmedia.co.jp/pcuser/articles/2611/24/news065.html"&gt;https://www.itmedia.co.jp/pcuser/articles/2611/24/news065.html&lt;/a&gt;&lt;/li&gt;&lt;li&gt;マイナビニュース TECH+「パナソニック コネクト、オフラインで動く議事録AIを無償提供」 &lt;a href="https://news.mynavi.jp/techplus/article/20261124-5398429/"&gt;https://news.mynavi.jp/techplus/article/20261124-5398429/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※AIを活用して作成&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:ai_breakingnews_1,2026-11-24:2026-11-24/02</id>
+    <title>Google検索のAIモードがWalletやドライブと連携</title>
+    <link href="https://yuuhivb-eng.github.io/ig-media/posts/2026-11-24-02.html"/>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>検索のAIモードが、ドライブの書類やWalletも踏まえて答えるように</summary>
+    <content type="html">&lt;p&gt;結論：検索のAIモードが、ドライブの書類やWalletも踏まえて答えるように&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Google公式ブログ「A more tailored Google Search that&amp;#x27;s uniquely yours」 &lt;a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"&gt;https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Google Japan Blog「Gemini アプリ で パーソナル インテリジェンス を日本でも提供開始」 &lt;a href="https://blog.google/intl/ja-jp/company-news/technology/personalintelligence/"&gt;https://blog.google/intl/ja-jp/company-news/technology/personalintelligence/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;TechCrunch「Google Search&amp;#x27;s AI Mode can now tap into Drive and Wallet for more personalized responses」 &lt;a href="https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"&gt;https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;※AIを活用して作成&lt;/p&gt;</content>
+  </entry>
+</feed>

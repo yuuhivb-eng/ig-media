@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuuhivb-eng.github.io/ig-media/sitemap.xml
